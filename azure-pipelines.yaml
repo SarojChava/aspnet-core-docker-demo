@@ -4,7 +4,7 @@ trigger:
     - master
 variables:
   buildConfiguration: 'Release'
-  location: 'West US 2'
+  location: 'West US 3'
   acrHostName: 'cswebappdocker004acr.azurecr.io'
   acrName: 'cswebappdocker004acr'
   rgName: 'cswebappdocker004-rg'
